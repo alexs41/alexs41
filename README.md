@@ -11,7 +11,10 @@ Confucius said:<br>
 
 I hope this is my performance I really love!
 
-<hr>
+## Languages and tools
+![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=JavaScript)
+
+
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alexs41&theme=tokyonight&border_radius=1&date_formaкак сказал Linus Torvaldst=%5BY%20%5DM%20j" height="190"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexs41&theme=tokyonight&langs_count=8" height="190"/>
