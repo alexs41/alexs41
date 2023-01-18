@@ -1,15 +1,13 @@
-# Aleksandr Kaigorodov
+# Кайгородов Александр
 
 ## web-developer
 
-At the beginning of 2022, I started my journey in programming. It was a 9-month web-development training course by Yandex.Praktikum. 
+Я начал свой путь в разработке с прохождения обучения в Яндекс.Практикуме курса "веб-разработчик" в 2022г. Мне нравится видеть результат своей работы. Проходил самостоятельно процесс создания лендинга/сайта от идеи до реализации. 
 
+Конфуций сказал:<br>
+“Выберите себе работу по душе, и вам не придется работать ни одного дня в своей жизни."
 
-
-Confucius said:<br>
-“Choose a job you love, and you will never have to work a day in your life."
-
-I hope this is my performance I really love!
+Надеюсь, что разработка - именно то, что будет приносить удовольствие!
 
 ## Languages and tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=JavaScript)
